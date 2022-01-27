@@ -64,6 +64,7 @@ Fin de semestre
 
 Entrega final STEAMLab (Código creativo)  
 - 8 al 7 de junio  
+
 Publicación de evaluaciones  
 - Del 10 al 17 de junio, 2022  
 
@@ -93,8 +94,7 @@ Cada clase está dividida en dos partes:
 
 ## Recursos 
 
-- Video  
-[Tutorial introductorio](https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e). Daniel Shiffman
+- Video [Tutorial introductorio](https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e). Daniel Shiffman
 
 
 ## Bibliografía
