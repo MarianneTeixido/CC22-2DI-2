@@ -1,4 +1,4 @@
-# Código Creativo | Segundo Semestre | 2022-1
+# Código Creativo | Segundo Semestre | 2022-2
 ### __Licenciatura en Diseño Industrial__  
 ### __CENTRO Diseño, Cine y Televisión__  
 
